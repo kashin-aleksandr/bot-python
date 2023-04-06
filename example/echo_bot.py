@@ -1,7 +1,7 @@
 from bot.bot import Bot
 from bot.handler import MessageHandler
 
-TOKEN = "001.0019169397.4089628677:1000003542" 
+TOKEN = "" 
 
 bot = Bot(token=TOKEN)
 
